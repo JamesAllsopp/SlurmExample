@@ -1,6 +1,6 @@
 # Baskerville Slurm Example
 
-Clone this repository using 
+Clone this repository into your Baskerville home or project directory using; 
 ```
 git clone https://github.com/JamesAllsopp/SlurmExample.git
 ```
