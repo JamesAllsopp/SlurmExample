@@ -11,7 +11,7 @@
 module purge
 module load baskerville
 
-#Use module list to find a python module to load
+#Use "module avail" to find a python module to load, then check it's loaded with  "module list". Replace  <module> with the full name of the module displayed e.g.  "Python/3.u.v-GCCcore-x.y.z"y
 module load <module> 
 python baskerville.py
 
